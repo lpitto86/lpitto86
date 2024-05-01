@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Luca!</h1>
-<h3 align="center">Junior Full-Stack Web Developer</h3>
+<h2 align="center">👨‍💻 Junior Full-Stack Web Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
