@@ -1,5 +1,9 @@
 <h2 align="center">👨‍💻 Junior Full-Stack Web Developer</h2>
 
+<p align="left">
+luca.p481@gmail.com
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
@@ -7,7 +11,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"/>
   </a>
 </div>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
