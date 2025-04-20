@@ -1,4 +1,4 @@
-<h2 align="center">👨‍💻 Junior Full-Stack Web Developer</h2>
+<h2 align="center">👨‍💻 Full-Stack Web Developer</h2>
 
 <p align="left">
 luca.p481@gmail.com
